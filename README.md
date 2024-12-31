@@ -1,4 +1,4 @@
-#Simple landing page
+# Simple landing page
 
 # React + Vite
 
